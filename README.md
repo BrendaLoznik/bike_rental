@@ -8,3 +8,8 @@ Bike sharing systems are a means of renting bicycles. The goal of the Bike Shari
   - Testing different regression models including Random Forest, Knn and XgBoost
   - Most important features are time of the day, whether it is a working day and the temperature
   - Top 5% score using Voting Regressor on tuned models
+
+
+![Screenshot](count_by_time_day.png)
+
+![Screenshot](RMSLE_models.png)
