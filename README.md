@@ -10,4 +10,6 @@ Bike sharing systems are a means of renting bicycles. The goal of the Bike Shari
   - Top 5% score using Voting Regressor on tuned models
   
   
-  ![Screenshot](time.png)
+  ![Screenshot](count by time and day.png)
+  
+   ![Screenshot](RMSLE regression models.png)
