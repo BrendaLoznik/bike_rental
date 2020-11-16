@@ -12,4 +12,3 @@ Bike sharing systems are a means of renting bicycles. The goal of the Bike Shari
 
 ![Screenshot](count_by_time_day.png)
 
-![Screenshot](RMSLE_models.png)
